@@ -138,38 +138,3 @@ img, svg {
 
 
 
-
-.credits {
-	position: relative;
-	z-index: 9;
-	font-size: 130%;
-	text-align: center;
-	width: 100%;
-	padding: 2rem 0;
-}
-
-.credits a {
-	display: inline-block;
-	color: #df1888;
-	font-family: Arial, sans-serif;
-	line-height: 1.5em;
-	text-decoration: none !important;
-	white-space: nowrap;
-	margin: 0 1.2em;
-	padding: 0.6em 0;
-	transition: 150ms;
-}
-
-.credits a:hover {
-	color: #2d71b9;
-	cursor: pointer;
-}
-
-.credits-logo {
-	fill: currentColor;
-	display: inline-block;
-	vertical-align: bottom;
-	width: 1.6em;
-	height: 1.6em;
-	margin: 0 0.5em 0 0;
-};
